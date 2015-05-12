@@ -27,6 +27,7 @@ GEM
       rack
     rack-test (0.6.3)
       rack (>= 1.0)
+    rake (0.8.7)
     rufus-scheduler (2.0.24)
       tzinfo (>= 0.3.22)
     sass (3.2.19)
@@ -61,3 +62,4 @@ PLATFORMS
 
 DEPENDENCIES
   dashing
+  rake (= 0.8.7)
