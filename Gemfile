@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 
 gem 'dashing'
-gem 'rake', '0.8.7'
+gem 'twitter', '>= 5.9.0'
+gem 'rake'
